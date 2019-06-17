@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import posed from 'react-pose'
 import styled from '@emotion/styled'
-import Nav from 'components/nav'
+import Nav from './nav'
 
 export const Container = styled.header`
   display: flex;
