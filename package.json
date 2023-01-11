@@ -35,7 +35,7 @@
     "gatsby-plugin-webpack-size": "^0.0.3",
     "gatsby-source-filesystem": "^2.1.11",
     "gatsby-transformer-json": "^2.2.3",
-    "gatsby-transformer-remark": "^2.6.15",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.7",
     "prop-types": "latest",
     "react": "^16.9.0",
